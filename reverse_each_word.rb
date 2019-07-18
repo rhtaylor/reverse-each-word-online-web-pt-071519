@@ -4,5 +4,5 @@ def reverse_each_word(str)
   y.each do |x|
     w += x.reverse
   end
-  w
+  y
 end
