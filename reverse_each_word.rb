@@ -3,7 +3,7 @@ def reverse_each_word(str)
   w = ''
   y.each do |x|
       x.reverse
-  
+
   end
 
 end
