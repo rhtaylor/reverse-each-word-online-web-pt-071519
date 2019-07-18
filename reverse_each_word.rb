@@ -8,6 +8,6 @@ def reverse_each_word(str)
   z = w.join(" ")
   z
   y.split.collect{|x| x.reverse}
-  
+
 
 end
