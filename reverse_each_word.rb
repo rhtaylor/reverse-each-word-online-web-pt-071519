@@ -5,5 +5,5 @@ def reverse_each_word(str)
     z =  x.reverse
     z
   end
-  
+
 end
