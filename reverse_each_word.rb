@@ -1,3 +1,8 @@
 def reverse_each_word(str)
-  str.split
+  y = str.split
+  w = ''
+  y.each do |x|
+    w += x.reverse
+  end
+  w
 end
